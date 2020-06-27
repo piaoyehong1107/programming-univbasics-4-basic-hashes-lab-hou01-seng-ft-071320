@@ -3,11 +3,11 @@ def new_hash
 end
 
 def my_hash
- my_hash={:key1=apple => value1="delicious"}
+ my_hash={:name=apple => value1="delicious"}
 end
 
 def pioneer
-  # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
+  my_hash
 end
 
 
