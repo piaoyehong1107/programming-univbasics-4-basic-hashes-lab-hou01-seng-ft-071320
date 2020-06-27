@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
- my_hash={:key1=apple => value1="delicious'}
+ my_hash={:key1=apple => value1="delicious"}
 end
 
 def pioneer
