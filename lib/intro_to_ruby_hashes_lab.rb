@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
- my_hash={:name=apple => value1="delicious"}
+ my_hash={[:name=apple]=> value='Grace Hopper'}
 end
 
 def pioneer
@@ -12,5 +12,5 @@ end
 
 
 def id_hash_generator(number)
-  # return a hash with a key :id assigned to the provided number
+  new_hash ={[:id]='number'}
 end
